@@ -1,10 +1,10 @@
 # bido
+a sanctions-evasion detection engine. resolves entities across multilingual open sources into a graph structure, then surfaces coordination patterns via network analysis.
 
 <p align="center">
   <img src="bido_graph.gif" alt="bido mosaic graph assembly" width="720">
 </p>
 
-a sanctions-evasion detection engine. resolves entities across multilingual open sources into a graph structure, then surfaces coordination patterns via network analysis.
 
 ## architecture (so far)
 
