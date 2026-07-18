@@ -17,6 +17,6 @@ a sanctions-evasion detection engine. resolves entities across multilingual open
 
 ## where is it? 
 
-**sure as hell ain't here**, the source is not published. why? 
+the source is not published right now. why? 
 short answer is that ***its still in dev***. 
 long answer is that the ***detection logic is the substance of the project***, and publishing the heuristics would be counterproductive to their purpose. 
